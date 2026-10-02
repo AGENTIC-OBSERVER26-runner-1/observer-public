@@ -33,7 +33,7 @@
   "project_platform/docker_runtime.py": "578ca25abaa755b8976f1655984a2e4dafda745d9a3a8f4cae5818b964e28f18",
   "project_platform/egress.py": "ae4b44578f751174ca8a5ce799688e3fb72d5e974c48e71f28141d7250f4f38f",
   "project_platform/executor.py": "1227703820ab80635cb0968589853dbca6f5eaa93966c0688905acadd9e20da7",
-  "project_platform/job_client.py": "bdf93da50a661e3d6de29b88c967d1796394afe65ed031cb2592e3420a6aacae",
+  "project_platform/job_client.py": "d2ed976ebc1e8bffdd033ea0b31c3a08d7ce477fbd974e4799dac567c24a439e",
   "project_platform/job_runner.py": "81cda2488ac3305ebdbb9741a25e0b90e3d2cf081c49c0a304a91c89b63b0748",
   "project_platform/local.py": "e495e82a14991d9e5fa4dd8f294b3b3a19474dcdf3123ddd783e29c22e153617",
   "project_platform/manifest.py": "0e61efd550355564555b49fc74d43e1703686f5014f0b2f5b55d2a752cf405a9",
